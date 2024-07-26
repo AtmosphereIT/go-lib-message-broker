@@ -1,0 +1,3 @@
+package broker
+
+const ERROR_CHANNEL_NAME_NOT_UNIQUE = "CHANNEL_NAME_NOT_UNIQUE"

@@ -1,0 +1,3 @@
+package channel
+
+const ERROR_TOPIC_NAME_NOT_UNIQUE = "TOPIC_NAME_NOT_UNIQUE"
